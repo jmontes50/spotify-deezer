@@ -22,7 +22,7 @@ Para poner en funcionamiento el proyecto en tu máquina local:
    ```
 3. Configura las credenciales de la API de Deezer (si es necesario) en un archivo `.env`:
    ```
-   REACT_KEY_DEEZER=tu_api_key
+   VITE_KEY_DEEZER=tu_api_key
    ```
 4. Inicia el servidor de desarrollo:
    ```
